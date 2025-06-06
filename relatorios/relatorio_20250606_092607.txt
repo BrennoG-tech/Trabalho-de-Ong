@@ -1,0 +1,5 @@
+Relatório de Animais:
+
+ID: 1 | shoyo - gato | 7 anos | Situação: Adotado
+ID: 2 | joao - cachorro | 2 anos | Situação: Disponível
+ID: 3 | camila - cadela | 5 anos | Situação: Adotado

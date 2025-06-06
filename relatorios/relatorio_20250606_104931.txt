@@ -1,0 +1,5 @@
+Relatório de Animais:
+
+ID: 1 | pingu - passarinho | 2 anos | Situação: Disponível
+ID: 2 | shoyo - gato | 7 anos | Situação: Adotado
+ID: 4 | marcelo - cachorro | 3 anos | Situação: Adotado
